@@ -13,4 +13,4 @@ This repository contains an efficient traffic sign recognition project using YOL
 - Update paths (e.g., `weights_path`, `image_dir`) as needed.
 
 ## Files
-- [css2_complete_notebook.py](https://github.com/101Viper777/css2-traffic-sign-recognition/blob/main/css2_complete_notebook.py)
+- [Traffic-Sign-Recognition.ipynb](https://github.com/sophieleung007/Traffic-Sign-Recognition/blob/main/Traffic-Sign-Recognition.ipynb)
